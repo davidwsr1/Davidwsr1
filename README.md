@@ -11,7 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por
 ### 🏆 Certificações
 
 <p align="left">
-  <a href="https://www.credly.com/badges/589abbcf-18f8-4e78-a73a-eb3bc2a8e356/public_url">
+  <a href="https://www.credly.com/badges/589abbcf-18f8-4e78-a73a-eb3bc2a8e356">
   <a href="">
     <img src="https://img.shields.io/badge/Google%20Cloud%20Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   </a>
